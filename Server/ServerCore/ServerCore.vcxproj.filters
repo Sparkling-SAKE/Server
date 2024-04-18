@@ -4,6 +4,9 @@
     <Filter Include="Utils">
       <UniqueIdentifier>{7fab2bf7-9c19-4fc3-9d10-38b03fe729ff}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{694e69e2-b597-4a6f-8f1b-7a805d1acb0d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -14,6 +17,9 @@
     </ClInclude>
     <ClInclude Include="Types.h">
       <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="CoreMacro.h">
+      <Filter>Main</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
