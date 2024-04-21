@@ -1,3 +1,19 @@
 ﻿  pch.cpp
+  CoreGlobal.cpp
   CorePch.cpp
+  CoreTLS.cpp
+  DeadLockProfiler.cpp
+C:\Users\Jeon\Server\Server\ServerCore\DeadLockProfiler.cpp(115,5): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 '_Ty'입니다.
+          with
+          [
+              _Ty=int32
+          ]
+C:\Users\Jeon\Server\Server\ServerCore\DeadLockProfiler.cpp(115,5): warning C4313: 'printf': 서식 문자열의 '%s'이(가) _Ty' 형식의 인수 3과(와) 충돌합니다.
+          with
+          [
+              _Ty=int32
+          ]
+  Lock.cpp
+  ThreadManager.cpp
+  코드를 생성하고 있습니다...
   ServerCore.vcxproj -> C:\Users\Jeon\Server\Server\Libraries\Debug\ServerCore.lib
