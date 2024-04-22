@@ -112,7 +112,7 @@ void DeadLockProfiler::Dfs(int32 here)
 			int32 now = here;
 			while (true)
 			{
-				ERR("%s -> %s", _parent[now], _idToName[now]);
+				ERR("%s -> %s", _idToName[_parent[now]], _idToName[now]);
 				now = _parent[now];
 				if (now == child)
 				{

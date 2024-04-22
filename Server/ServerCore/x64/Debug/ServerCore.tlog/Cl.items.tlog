@@ -3,5 +3,7 @@ C:\Users\Jeon\Server\Server\ServerCore\CorePch.cpp;C:\Users\Jeon\Server\Server\S
 C:\Users\Jeon\Server\Server\ServerCore\CoreTLS.cpp;C:\Users\Jeon\Server\Server\ServerCore\x64\Debug\CoreTLS.obj
 C:\Users\Jeon\Server\Server\ServerCore\DeadLockProfiler.cpp;C:\Users\Jeon\Server\Server\ServerCore\x64\Debug\DeadLockProfiler.obj
 C:\Users\Jeon\Server\Server\ServerCore\Lock.cpp;C:\Users\Jeon\Server\Server\ServerCore\x64\Debug\Lock.obj
+C:\Users\Jeon\Server\Server\ServerCore\NetAddress.cpp;C:\Users\Jeon\Server\Server\ServerCore\x64\Debug\NetAddress.obj
 C:\Users\Jeon\Server\Server\ServerCore\pch.cpp;C:\Users\Jeon\Server\Server\ServerCore\x64\Debug\pch.obj
+C:\Users\Jeon\Server\Server\ServerCore\SocketUtils.cpp;C:\Users\Jeon\Server\Server\ServerCore\x64\Debug\SocketUtils.obj
 C:\Users\Jeon\Server\Server\ServerCore\ThreadManager.cpp;C:\Users\Jeon\Server\Server\ServerCore\x64\Debug\ThreadManager.obj
